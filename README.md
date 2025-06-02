@@ -8,6 +8,7 @@ The project demonstrates how to train and evaluate an SVM model for binary class
 Support Vector Machines (SVM) are powerful supervised learning models used for classification and regression.  
 This project showcases the use of SVM for solving a binary classification problem using `scikit-learn`.
 
+
 ## ✨ Features
 
 - SVM classifier using scikit-learn
